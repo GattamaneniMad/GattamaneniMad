@@ -1,43 +1,96 @@
-## Hi there 👋
-
- I'm Madhu 👋
+# Hi, I'm Madhu Chowdary Gattamaneni 👋
 
 🎓 MS in Data Science – University of Houston Clear Lake  
-📍 Houston, TX  
-🧠 Focus: Deep Learning, Medical Image Classification, NLP  
-💻 Python | TensorFlow | Scikit-Learn | SQL  
+📍 Houston, Texas  
+💡 Interests: Data Science, Machine Learning, Deep Learning, Supply Chain Analytics  
+
+I am a data science graduate student passionate about building **data-driven solutions for real-world problems**. My work focuses on **machine learning, deep learning, and advanced data analytics**, with applications in healthcare, business intelligence, and operational analytics.
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 Technical Skills
 
-🔬 Skin Lesion Classification (DCNN – HAM10000 Dataset)  
-🧠 Brain Tumor Detection (ResNet50V3 – 99.79% Accuracy)  
-📈 Stock Price Prediction (Time Series Modeling)  
-📰 Fake News Detection (NLP + TF-IDF)
+**Programming & Data Analysis**  
+Python, SQL, Pandas, NumPy
+
+**Machine Learning & AI**  
+Scikit-Learn, TensorFlow, Deep Learning, CNNs, Transfer Learning, NLP
+
+**Data Visualization & Analytics**  
+Power BI, Tableau, Matplotlib, Seaborn, Data Storytelling
+
+**Tools & Technologies**  
+Git, GitHub, Jupyter Notebook, Excel
+
+**Currently Learning**  
+MLOps, Cloud-based ML deployment (AWS), Scalable ML pipelines
 
 ---
 
-## 🎯 Currently
+# 🚀 Featured Projects
 
-- Preparing for Data Science & ML roles
-- Expanding into MLOps & Cloud
-- Building deployment-ready ML systems
+## 🧾 Supply Chain Analytics Dashboard
+Interactive **Power BI dashboard** analyzing revenue performance, inventory distribution, supplier production, logistics costs, and shipping efficiency.
+
+Key insights include:
+- Revenue performance by product category and location
+- Inventory level analysis across product types
+- Supplier production volume comparison
+- Transportation mode cost distribution
+- Shipping cost vs delivery time analysis
+- Supplier defect rate evaluation
+
+**Tools Used:**  
+Power BI, Excel, Data Visualization, Supply Chain Analytics
 
 ---
 
-📫 Email: gattamanenimadhu.999@gmail.com  
-🔗 LinkedIn: linkedin.com/in/madhuchowdary999
--
-**GattamaneniMad/GattamaneniMad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Skin Lesion Classification (HAM10000 Dataset)
+Developed a **deep convolutional neural network (DCNN)** for automated skin lesion classification to assist early detection of skin cancer.
 
-## 👨‍💻 About Me
+**Technologies:**  
+Python, TensorFlow, CNN, Medical Image Processing
 
-- 🔭 I’m currently working on deep learning models for medical image classification and improving model generalization.
-- 🌱 I’m currently learning MLOps, cloud-based ML deployment (AWS), and scalable model pipelines.
-- 👯 I’m looking to collaborate on machine learning, NLP, and computer vision projects.
-- 🤔 I’m looking for help with advanced model optimization and real-world ML deployment strategies.
-- 💬 Ask me about deep learning (CNNs), transfer learning, NLP, or model evaluation techniques.
-- 📫 How to reach me: gattamanenimadhu.999@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy solving real-world healthcare problems using AI.
+---
+
+## 🧠 Brain Tumor Detection
+Built a deep learning model using **ResNet50V3** achieving **99.79% accuracy** for brain tumor detection from MRI images.
+
+**Technologies:**  
+Python, TensorFlow, Transfer Learning, Deep Learning
+
+---
+
+## 📈 Stock Price Prediction
+Implemented a **time-series forecasting model** to analyze stock price trends and predict future price movement.
+
+**Technologies:**  
+Python, Machine Learning, Time Series Analysis
+
+---
+
+## 📰 Fake News Detection
+Developed an NLP model using **TF-IDF and machine learning algorithms** to classify news articles as real or fake.
+
+**Technologies:**  
+Python, NLP, Scikit-Learn, TF-IDF
+
+---
+
+# 🎯 Currently
+
+- Preparing for **Data Analyst, Data Scientist, and Machine Learning roles**
+- Learning **MLOps and cloud-based ML deployment**
+- Building **portfolio projects and real-world analytics solutions**
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: gattamanenimadhu.999@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/madhuchowdary999  
+💻 GitHub: https://github.com/GattamaneniMad
+
+---
+
+⭐ I enjoy applying **AI and data science to solve real-world problems in healthcare, business analytics, and operational optimization.**
