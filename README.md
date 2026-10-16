@@ -1,96 +1,144 @@
 # Hi, I'm Madhu Chowdary Gattamaneni 👋
 
-🎓 MS in Data Science – University of Houston Clear Lake  
-📍 Houston, Texas  
-💡 Interests: Data Science, Machine Learning, Deep Learning, Supply Chain Analytics  
+### Data Analyst | Business Intelligence Analyst | Business Operations
 
-I am a data science graduate student passionate about building **data-driven solutions for real-world problems**. My work focuses on **machine learning, deep learning, and advanced data analytics**, with applications in healthcare, business intelligence, and operational analytics.
+I'm a Data Analyst with an M.S. in Data Science, passionate about transforming complex datasets into actionable business insights. I specialize in SQL, Python, Power BI, and Tableau, with experience in data cleaning, ETL, KPI reporting, dashboard development, and predictive analytics.
 
----
+I enjoy solving business problems through data-driven decision-making, building interactive dashboards, and automating reporting workflows to improve operational efficiency.
 
-# 🧠 Technical Skills
+📍 Houston, Texas, USA
 
-**Programming & Data Analysis**  
-Python, SQL, Pandas, NumPy
+🔗 **Portfolio:** [madhuchowdary_portfolio](https://gattamanenimad.github.io/GattamaneniMad/)
 
-**Machine Learning & AI**  
-Scikit-Learn, TensorFlow, Deep Learning, CNNs, Transfer Learning, NLP
+💼 **LinkedIn:** [madhuchowdary999](https://www.linkedin.com/in/madhuchowdary999)
 
-**Data Visualization & Analytics**  
-Power BI, Tableau, Matplotlib, Seaborn, Data Storytelling
-
-**Tools & Technologies**  
-Git, GitHub, Jupyter Notebook, Excel
-
-**Currently Learning**  
-MLOps, Cloud-based ML deployment (AWS), Scalable ML pipelines
+📧 **Email:** [Contact Me](mailto:gattamanenimadhu.999@gmail.com)
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-## 🧾 Supply Chain Analytics Dashboard
-Interactive **Power BI dashboard** analyzing revenue performance, inventory distribution, supplier production, logistics costs, and shipping efficiency.
+**Languages & Data Analysis**
+- SQL (Joins, CTEs, Window Functions)
+- Python (Pandas, NumPy)
+- Excel (Pivot Tables, XLOOKUP, Power Query)
+- Statistical Analysis and Data Validation
 
-Key insights include:
-- Revenue performance by product category and location
-- Inventory level analysis across product types
-- Supplier production volume comparison
-- Transportation mode cost distribution
-- Shipping cost vs delivery time analysis
-- Supplier defect rate evaluation
+**Business Intelligence & Visualization**
+- Power BI, DAX, Power Query
+- Tableau
+- KPI Dashboards and Executive Reporting
+- Data Modeling and Data Visualization
 
-**Tools Used:**  
-Power BI, Excel, Data Visualization, Supply Chain Analytics
+**Databases & Tools**
+- PostgreSQL, MySQL, SQL Server
+- Jupyter Notebook
+- Git and GitHub
 
----
+**Machine Learning & Analytics**
+- Predictive Modeling
+- Credit Risk Analysis
+- Customer Segmentation (RFM)
+- Deep Learning and Transfer Learning
 
-## 🔬 Skin Lesion Classification (HAM10000 Dataset)
-Developed a **deep convolutional neural network (DCNN)** for automated skin lesion classification to assist early detection of skin cancer.
-
-**Technologies:**  
-Python, TensorFlow, CNN, Medical Image Processing
-
----
-
-## 🧠 Brain Tumor Detection
-Built a deep learning model using **ResNet50V3** achieving **99.79% accuracy** for brain tumor detection from MRI images.
-
-**Technologies:**  
-Python, TensorFlow, Transfer Learning, Deep Learning
-
----
-
-## 📈 Stock Price Prediction
-Implemented a **time-series forecasting model** to analyze stock price trends and predict future price movement.
-
-**Technologies:**  
-Python, Machine Learning, Time Series Analysis
+**Business Analysis**
+- Requirements Gathering
+- Stakeholder Management
+- Business Process Analysis
+- Gap Analysis and Process Improvement
 
 ---
 
-## 📰 Fake News Detection
-Developed an NLP model using **TF-IDF and machine learning algorithms** to classify news articles as real or fake.
+## 📊 Featured Projects
 
-**Technologies:**  
-Python, NLP, Scikit-Learn, TF-IDF
+### 1. Supply Chain Analytics Dashboard
+**Tools:** SQL, Power BI
+
+- Developed an interactive dashboard to track supply chain KPIs across product categories and suppliers.
+- Enabled drill-down analysis to identify inventory trends and recurring supplier issues.
+- Streamlined weekly reporting to support procurement and inventory decisions.
+
+### 2. Retail Sales Analytics Dashboard
+**Tools:** Power BI, DAX
+
+- Analyzed 12 months of sales transactions across five regions.
+- Developed KPI dashboards to monitor revenue trends and promotional performance.
+- Enabled detailed analysis across regions, stores, and product SKUs.
+
+### 3. Customer Insights Dashboard
+**Tools:** Python, SQL, Power BI
+
+- Segmented 100,000+ customers using Recency, Frequency, and Monetary (RFM) analysis.
+- Identified valuable customer segments to support targeted marketing strategies.
+- Created automated dashboards for tracking purchasing behavior and customer retention.
+
+### 4. Financial Market Analysis
+**Tools:** SQL, Python
+
+- Analyzed market performance trends across 20+ stocks.
+- Automated financial data integration to improve consistency across reports.
+- Developed data-driven insights to support investment analysis.
+
+### 5. Credit Risk Analysis
+**Tools:** Python, Dynamic Programming, Statistical Modeling
+
+- Developed a probability of default model using loan data.
+- Grouped FICO scores into risk categories to support borrower risk assessment.
+- Explored expected loss estimation as part of credit risk analysis.
 
 ---
 
-# 🎯 Currently
+## 🔬 Research Experience
 
-- Preparing for **Data Analyst, Data Scientist, and Machine Learning roles**
-- Learning **MLOps and cloud-based ML deployment**
-- Building **portfolio projects and real-world analytics solutions**
+### Classification of Skin Lesions Using Deep CNNs
+- Applied transfer learning using VGG16, InceptionResNetV2, InceptionV3, and DenseNet201.
+- Developed an ensemble model achieving 91.48% accuracy on the HAM10000 dataset.
 
----
-
-# 📫 Connect With Me
-
-📧 Email: gattamanenimadhu.999@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/madhuchowdary999  
-💻 GitHub: https://github.com/GattamaneniMad
+### Brain Tumor Detection and Classification
+- Developed deep learning models for brain tumor detection and classification using MRI scans.
+- Evaluated multiple CNN architectures, with ResNet50 achieving 99.79% accuracy in the reported experiment.
 
 ---
 
-⭐ I enjoy applying **AI and data science to solve real-world problems in healthcare, business analytics, and operational optimization.**
+## 💼 Professional Experience
+
+**Data Science Intern | Corizo**
+- Automated data processing workflows using SQL and Python for 2M+ records.
+- Developed executive dashboards that saved 12+ hours of manual work per month.
+- Implemented data cleaning and validation checks across five major market indices.
+
+**Quantitative Research Job Simulation | J.P. Morgan**
+- Applied dynamic programming to group FICO scores into credit risk buckets.
+- Built a Python probability of default model to estimate borrower risk and expected loss.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Data Science**  
+University of Houston–Clear Lake, Texas | 2024–2026
+
+**Bachelor of Technology in Computer Science Engineering**  
+Vellore Institute of Technology, India | 2020–2024
+
+---
+
+## 📜 Certifications
+
+- Google Data Analytics Professional Certificate
+- Data Analytics with Python — IBM
+- Claude 101 — Anthropic Academy
+- AI Fluency: Framework & Foundations — Anthropic Academy
+- HackerRank SQL
+- HackerRank Python
+
+---
+
+## 🤝 Let's Connect!
+
+I'm interested in opportunities in **Data Analytics, Business Intelligence, and Business Operations**, where I can use data to solve real-world problems and help teams make better decisions.
+
+📧 [Email Me](mailto:gattamanenimadhu.999@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/madhuchowdary999) | 💻 [GitHub](https://github.com/GattamaneniMad)
+
+**Portfolio:** 
+
